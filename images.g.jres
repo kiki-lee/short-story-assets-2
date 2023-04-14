@@ -22,6 +22,6 @@
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
-        "namespace": "myImages"
+        "namespace": "storyImages2"
     }
 }
