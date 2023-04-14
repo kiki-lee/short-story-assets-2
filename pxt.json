@@ -1,6 +1,6 @@
 {
     "name": "short-story-assets-2",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -9,8 +9,6 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts",
         "images.g.jres",
         "images.g.ts"
     ],
